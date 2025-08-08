@@ -1,1 +1,0 @@
-# ShaktiCTF-2025-Solutions
